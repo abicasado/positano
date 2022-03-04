@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Simonetta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Urbanist:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@300&family=Simonetta&display=swap');
+
+
+html {
+    background-color: hsl(45, 67%, 96%);
+    background-image: url("fondo.pdf");
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    scroll-behavior: smooth;
+}
+
+ul {margin: 0%;}
+
+body {margin-top: 0%;}
+
+
+nav {
+    position: relative;
+    font-family: 'Simonetta', cursive;    
+    font-size: 25px;
+    margin: 0% !important;
+    height: min-content;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    ;
+}
+
+span a {text-decoration: none; color: black;}
+
+span:hover { font-size: 30px; font-style: italic;}
+
+
+ul {text-align: center;
+    padding: 1px;}
+
+
+.Positano {
+    font-family: 'Allison', cursive;
+    font-size: 100px;
+    color: black;
+    display: inline-block;
+    list-style-type: none;
+}
+
+.cimg1 {
+    background-image: url("https://viajerosocultos.com/wp-content/uploads/2021/05/beautiful-colorful-positano-town-1536x1024.jpg");
+    min-height: 640px;
+    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 1;
+  position: relative;}
+
+
+.img {
+    font-family: 'Simonetta', cursive;
+    font-size: 40px;
+    color: black;
+    display: inline-block;
+    list-style-type: none;
+    margin: 3%;
+    text-align: justify;
+}
+
+.menuitem { color: white;  background-color:#B6DA9C ; 
+    font-family: "Lato", sans-serif;
+    font-size: 25px;
+    border-radius: 13px;
+    position: absolute;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 240px;
+    margin-left: 620px;
+    text-decoration: none;
+}
+
+.texto {
+    font-family: 'Allison', cursive;
+    font-size: 60px;
+    color: black;
+    display: inline-block;
+    list-style-type: none;
+}
+
+
+
+
+

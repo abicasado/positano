@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Simonetta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Urbanist:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@300&family=Simonetta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Hind+Guntur:wght@300&family=Simonetta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+
+
+html {
+    background-color: hsl(45, 67%, 96%);
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    scroll-behavior: smooth}
+
+ul {margin: 0%;}
+
+body {margin-top: 0%;}
+
+nav {
+    position: relative;
+    font-family: 'Simonetta', cursive;    
+    font-size: 25px;
+    margin: 0% !important;
+    height: min-content;
+    color: rgb(0, 0, 0);}
+    
+ul {text-align: center; padding: 1px; }
+
+.navegador, .quehacer, .blog {text-decoration: none; color: rgb(0, 0, 0);}
+
+span:hover {color: black; font-size: 30px; font-style: italic;}
+
+.Positano {
+    font-family: 'Allison', cursive;
+    font-size: 100px;
+    color: black;
+    display: inline-block;
+    list-style-type: none;
+}
+
+.ctext { position: relative; text-align: justify; 
+    margin-top: 50px;
+    margin-left: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 20px; 
+    background-color: #ffd7bacb;
+    font-family: 'Simonetta', cursive;  }
+
+.Lesirenuse { background-position: center; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;
+        opacity: 1; position: relative; 
+        background-image: url("https://i.pinimg.com/originals/f2/86/d1/f286d149067fe065f6a5e35e7fbe8e49.jpg");
+        min-height: 670px;
+    margin: 6px;margin-bottom: 15px; margin-top: 15px}        
+
+
+.constantino { background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            opacity: 1;
+            position: relative;
+            background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/15/17/53/d0/view-of-the-dinning-room.jpg");
+            min-height: 640px; 
+            margin: 6px; margin-bottom: 15px;margin-top: 15px; }        
+
+.latteria { background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        opacity: 1;
+        position: relative;
+        background-image: url("https://www.italie-decouverte.com/wp-content/uploads/2014/10/positano_3.jpg");
+        min-height: 640px;margin: 6px;margin-bottom: 15px; margin-top: 15px;}
+
+.Rada { background-position: center; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;
+            opacity: 1;  position: relative; background-image: url("https://res.cloudinary.com/tf-lab/image/upload/restaurant/f1958137-f3d5-42a7-8c28-455306ff3725/dbba1c3e-1014-4e12-a291-12339a22d2ac.jpg"); min-height: 640px;
+            margin: 6px;margin-bottom: 15px; margin-top: 15px}
+  
+span { padding: 10px; opacity: 0.6;}
+span a, span a:link { color: rgb(0, 0, 0); text-decoration: none; }
+        
+@media (max-width: 568px) {.LaSponda, .ilTridente, .baco, .chez { background-attachment: scroll; } }
+
+.trada { position: relative; text-align: justify; 
+    margin-left: 700px;
+    color: rgb(255, 255, 255);
+    font-size: 20px; 
+    font-family: 'Simonetta', cursive;  
+    width: 500px;
+    height: 600px;
+    background:#69a3face;
+    padding: 40px;}
+
+.tconstantino { position: relative; text-align: justify; 
+    margin-left: 90px;
+    color: rgb(255, 255, 255);
+    font-size: 20px; 
+    font-family: 'Simonetta', cursive;  
+    width: 500px;
+    height: 600px;
+    background:#fab669cb;
+    padding: 40px}
+
+.tlatteria { position: relative; text-align: justify; 
+        margin-left: 700px;
+        color: rgb(255, 255, 255);
+        font-size: 20px; 
+        font-family: 'Simonetta', cursive;  
+        width: 500px;
+        height: 600px;
+        background:#ee8d8de5;
+        padding: 40px;}
+.tsirenuse { position: relative; text-align: justify; 
+        margin-left: 90px;
+        color: rgb(255, 255, 255);
+        font-size: 20px; 
+        font-family: 'Simonetta', cursive;  
+        width: 500px;
+        height: 600px;
+        background:#b6da9ccb;
+        padding: 40px;}
+
+.Ristorante {font-size: 60px; font-family: 'Tangerine', cursive; text-align: justify;}
+
+.gastronomia { background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        opacity: 1;
+        position: relative;
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9b/Positano_Sunset.JPG");
+        min-height: 640px;margin: 6px;margin-bottom: 15px ; margin-top: 0px}
+
+.boton { color: white;  background-color:#a1949498 ; font-family: "Lato", sans-serif; font-size: 25px; border-radius: 13px;
+            position: absolute; padding: 13px; padding-left: 30px; padding-right: 30px; margin-top: 240px; margin-left: 620px; text-decoration: none;}
+  
+.boton :hover {color: black; font-size: 80px}
+
+.tgastronomia {color: white;  background-color:#a1949498 ; 
+        font-family: 'Allison', cursive; 
+        font-size: 40px;
+        border-radius: 13px;
+        position: absolute;
+        padding: 13px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 240px;
+        margin-left: 500px;
+        text-decoration: none;
+    
+    
+}            
